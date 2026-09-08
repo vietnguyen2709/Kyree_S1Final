@@ -1,0 +1,27 @@
+div {
+    min-height: 0vh;
+    max-width: 1250px;
+    margin: 0 auto;
+    border: 6px ridge blue;
+}
+
+img {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+h1 {
+        text-align: center;
+        font-size: 100; min-height:100
+    }
+
+h2 {
+    text-align: center;
+    font-size: 75; min-height:100
+}
+
+body {
+    color: white;
+    background-color: black
+}
